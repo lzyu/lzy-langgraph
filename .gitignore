@@ -1,0 +1,9 @@
+.env
+__pycache__/
+*.pyc
+.venv/
+.uv/
+uv.lock
+.python-version
+.DS_Store
+.vscode/
